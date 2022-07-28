@@ -1,4 +1,4 @@
-(exemple de portfolio)
+(exemple de portfolio, inspiré de Josh Madakor)
 <h1>Bonjour, Je suis Michel<br/>
 <a href="https://github.com/LeBlogDuHacker">Développeur</a>, <a href="https://www.linkedin.com/in/michel-kartner/">Consultant-Formateur en cybersécurité</a> et <a href="https://www.youtube.com/c/MichelKartner">YouTubeur</a></h1>
 
@@ -22,7 +22,7 @@
   - [Logiciel de contrôle parental](#private)
   - [Logiciel de désinfection PC](#private)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
 - <b>C</b>
   - [Projet SDL, jeux vidéo](#private)
 
